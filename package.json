@@ -1,0 +1,27 @@
+{
+  "name": "node-simple-chat",
+  "version": "1.0.0",
+  "description": "Simple chat application using node.js and socket.io",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tanvirrb/node-simple-chat.git"
+  },
+  "keywords": [
+    "node.js",
+    "chat",
+    "socket.io"
+  ],
+  "author": "Tanvir Islam (Github handle: tanvirrb)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tanvirrb/node-simple-chat/issues"
+  },
+  "homepage": "https://github.com/tanvirrb/node-simple-chat#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
