@@ -22,7 +22,7 @@
   },
   "homepage": "https://github.com/tanvirrb/node-simple-chat#readme",
   "dependencies": {
-    "express": "^4.16.2",
+    "express": "^4.18.2",
     "socket.io": "^2.4.0"
   }
 }
